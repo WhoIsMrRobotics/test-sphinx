@@ -10,6 +10,8 @@ Welcome to Test Docs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+.. image:: _static/screenshot.png
+   :alt: My Screenshot
 
 
 Indices and tables
